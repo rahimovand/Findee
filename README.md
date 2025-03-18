@@ -2,7 +2,7 @@
 
 - It was done with the following of Android basiucs with compose course and in this application i have used
 
-AlertDilog,
+AlertDialog,
 Card,
 OutlinedButton,
 ViewModel,

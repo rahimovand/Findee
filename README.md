@@ -1,13 +1,12 @@
-- Findee is a basic uncramble worlds application that supports both Night and Light mode (also dynamic coloring)
+# ⚡ Findee - basic uncramble words
 
-- It was done with the following of Android basiucs with compose course and in this application i have used
+Findee is a basic uncramble words application that was done by my own following along to Android official website guidance
 
-AlertDialog,
-Card,
-OutlinedButton,
-ViewModel,
-and other Composables
+---
+## 🚀 Feautures
 
-![findee](https://github.com/user-attachments/assets/5eae06b1-4500-4171-a2d8-237314b23202)
-
-
+- 🐱‍👤 Dark Mode / Light Mode autoSupport
+- 🎨 Beautiful UI with animations
+- 🥊 Gives you easy words in a scrambled way
+- 📝 Calculates the total value of your score
+- 🌈 Jetpack Compose UI, no XML in sight
